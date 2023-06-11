@@ -18,7 +18,7 @@ type`, `Education`, `Job title`, `Company size`, `Age`, `Experience` and
 
 2. Selecting the best overall performer regression algorithm from the baseline
 model, how do additional features, including `Remote work`, `Certifications`, `Coding as a hobby`, `Gender`, `Sexual orientation`, `Ethnicity`,
-"Physical disability", and "Mental disability", impact the prediction error
+`Physical disability`, and `Mental disability`, impact the prediction error
 and variance explained by the aforementioned model?”
 
 3. To what extent can patterns of discrimination be detected after including
