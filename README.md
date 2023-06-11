@@ -11,17 +11,16 @@ The research carries societal significance as it promotes fair employment practi
 ## Research Questions
 
 1. To what extent is it possible to explain more variance and reduce prediction
-errors from a baseline model consisting of the features “Country”, “Job
-type”, “Education”, “Job title”, “Company size”, “Age”, “Experience” and
-“Annual Salary” by using different ML and DL algorithms such as MLR, Lasso, Ridge, SVR,
-Adaboost, RF,  XGBoost, and MLP?
+errors from a baseline model consisting of the features `Country`, `Job
+type`, `Education`, `Job title`, `Company size`, `Age`, `Experience` and
+`Annual Salary` by using different **ML** and **DL** algorithms such as **MLR**, **Lasso**, **Ridge**, **SVR**,
+**Adaboost**, **RF**,  **XGBoost**, and **MLP**?
 
 2. Selecting the best overall performer regression algorithm from the baseline
-model, how do additional features, including "Remote work", "Certifica-
-tions", "Coding as a hobby", "Gender", "Sexual orientation", "Ethnicity",
+model, how do additional features, including `Remote work`, `Certifications`, `Coding as a hobby`, `Gender`, `Sexual orientation`, `Ethnicity`,
 "Physical disability", and "Mental disability", impact the prediction error
 and variance explained by the aforementioned model?”
 
 3. To what extent can patterns of discrimination be detected after including
-"Gender", "Sexual orientation", "Ethnicity", "Physical disability" and
-"Mental disability" in the previously introduced baseline model?
+`Gender`, `Sexual orientation`, `Ethnicity`, `Physical disability` and
+`Mental disability` in the previously introduced baseline model?
